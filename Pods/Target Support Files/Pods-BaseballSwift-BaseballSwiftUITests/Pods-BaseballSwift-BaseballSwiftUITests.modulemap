@@ -1,0 +1,6 @@
+framework module Pods_BaseballSwift_BaseballSwiftUITests {
+  umbrella header "Pods-BaseballSwift-BaseballSwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

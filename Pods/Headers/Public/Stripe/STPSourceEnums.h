@@ -1,1 +1,0 @@
-../../../Stripe/Stripe/PublicHeaders/Stripe/STPSourceEnums.h

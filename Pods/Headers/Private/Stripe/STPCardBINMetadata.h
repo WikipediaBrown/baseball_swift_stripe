@@ -1,1 +1,0 @@
-../../../Stripe/Stripe/STPCardBINMetadata.h
